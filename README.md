@@ -12,4 +12,5 @@ Dumb computer science student tries to make up to his past mistakes by learning 
 \
 7 - Today I finished a basic slider script. This made me more comfortable using JS on divs as well as gave me a more broad view of possibilities of creativity. Next step will be working on a (fake) online shop.
 \
+\
 A smaller side-project - filter - has been finished too. This prepared me for the initial online shop project and gave me some new inspiration.

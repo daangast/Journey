@@ -10,4 +10,4 @@ Dumb computer science student tries to make up to his past mistakes by learning 
 6 - I brushed up some old JS knowledge, as well as worked my way through the Codecademy JS course and am warmed up now. Next step: a (few) personal project(s).
 \
 \
-7 - Today I finished a basic slider programming. This made me more comfortable using JS on divs as well as gave me a more broad view of possibilities of creativity. Next step will be working on a (fake) online shop.
+7 - Today I finished a basic slider script. This made me more comfortable using JS on divs as well as gave me a more broad view of possibilities of creativity. Next step will be working on a (fake) online shop.
